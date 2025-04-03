@@ -1,4 +1,4 @@
-# Movies Data Analysis Project
+# Movies Data Analysis Project                                              ![Cat GIF](https://github.com/TaradaiTech/Data-Analytics-Repo/blob/main/Cat%20GIF.gif)         
 
 ## Overview
 This repository contains a comprehensive analysis of a movies dataset, featuring:
