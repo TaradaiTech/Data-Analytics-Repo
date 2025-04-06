@@ -4,7 +4,7 @@
 </div>                                           
 
 ## Overview
-In this project, I embarked on an exploratory data analysis (EDA) journey to understand the factors driving movie success. I automated the process of data cleaning, visualization, and insight extraction, creating interactive and insightful visualizations that help identify patterns between features like movie budgets, gross earnings, ratings, and more.
+### In this project, I dove into an EDA adventure to understand the factors driving movie success. I automated the process of data cleaning, visualization, and insight extraction, creating interactive and insightful visualizations that help identify patterns between features like movie budgets, gross earnings, ratings, and more.
 
 ---
 
@@ -20,15 +20,15 @@ Scikit-learn: For predictive modeling, I implemented linear regression to predic
 
 ## What I Learned
 
-Automating Data Cleaning: This was a key focus of the project. I developed strategies for cleaning datasets, such as handling missing values and ensuring correct data types. Through this, I understood the importance of data integrity in achieving meaningful analysis.
+- Automating Data Cleaning: This was a key focus of the project. I developed strategies for cleaning datasets, such as handling missing values and ensuring correct data types. Through this, I understood the importance of data integrity in achieving meaningful analysis.
 
-Exploratory Data Analysis (EDA): I learned how to apply statistical methods (e.g., Pearson correlation) and visualization tools to uncover relationships in the data. This helped me dive deep into how budget influences gross earnings and the distribution of movie scores across different genres.
+- Exploratory Data Analysis (EDA): I learned how to apply statistical methods (e.g., Pearson correlation) and visualization tools to uncover relationships in the data. This helped me dive deep into how budget influences gross earnings and the distribution of movie scores across different genres.
 
-Outlier Detection: By implementing the Interquartile Range (IQR) method, I gained insights into data quality and learned how to handle extreme values that might distort analysis.
+- Outlier Detection: By implementing the Interquartile Range (IQR) method, I gained insights into data quality and learned how to handle extreme values that might distort analysis.
 
-Visualization Mastery: The project honed my ability to convey complex patterns through visualizations. I learned to use scatter plots, regression plots, and pairplots to represent data insights in an easily interpretable way. Violin plots allowed me to delve into the distribution of scores across movie ratings.
+- Visualization Mastery: The project honed my ability to convey complex patterns through visualizations. I learned to use scatter plots, regression plots, and pairplots to represent data insights in an easily interpretable way. Violin plots allowed me to delve into the distribution of scores across movie ratings.
 
-Predictive Modeling: I ventured into predictive analytics, applying linear regression to predict movie success based on various factors. Understanding model performance through metrics like RMSE and R² score was a significant milestone, as I learned to evaluate the accuracy and potential of my predictions.
+- Predictive Modeling: I ventured into predictive analytics, applying linear regression to predict movie success based on various factors. Understanding model performance through metrics like RMSE and R² score was a significant milestone, as I learned to evaluate the accuracy and potential of my predictions.
 
 ---
 
