@@ -1,0 +1,13 @@
+# Data manipulation and analysis
+pandas>=2.2.0
+numpy>=1.26.4
+
+# Data visualization libraries
+matplotlib>=3.8.2
+seaborn>=0.13.2
+
+# Machine Learning library
+scikit-learn>=1.6.1
+
+# Jupyter Notebook environment
+notebook>=7.0.7
